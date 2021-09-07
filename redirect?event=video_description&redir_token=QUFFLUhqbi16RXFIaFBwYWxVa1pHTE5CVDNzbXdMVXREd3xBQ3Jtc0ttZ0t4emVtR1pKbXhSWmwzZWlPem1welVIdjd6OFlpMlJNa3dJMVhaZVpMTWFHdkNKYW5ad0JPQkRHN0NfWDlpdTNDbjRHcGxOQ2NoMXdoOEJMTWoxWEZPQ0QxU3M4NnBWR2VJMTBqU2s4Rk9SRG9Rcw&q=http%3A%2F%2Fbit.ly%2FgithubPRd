@@ -1,0 +1,37 @@
+- 👋 Hi, I’m @alejoaristavargas
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+alejoaristavargas/alejoaristavargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+"hola mundo"
+
+4)	Represente cada una de las siguientes combinaciones de unidades en la forma
+correcta del SI con un prefijo adecuado: 
+a)	kN/µs 
+kN/us=(10^3 N)/( 10^(-6) s)
+
+kN/us=10^(3+6)  N/s
+
+kN/us=10^9  N/s
+
+kN/us=GN/s
+b)	Mg/Mn
+Mg/mN=(10^6 g)/( 10^(-3) N)
+
+	Mg/mN=10^6×〖(10〗^3  g/N)
+
+M Kg/N
+c)	MN/(kg.ms).
+MN/(kg.ms)=(10^6 N)/( 〖kg .10〗^(-3).s)
+
+MN/(kg.ms)=10^(6+3)  N/(kg.s)
+
+MN/(kg.ms)=10^9  N/(kg.s)
+
+MN/(kg.ms)=GN/(kg.s)
+
